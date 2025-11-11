@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @tordevries.
-- No, I haven't filled out this template
-- except for this
-- so github stops asking me about it.
+👋 Hi, I’m Tor de Vries, a designer, communicator, and associate professor at Washington State University.
 
 <!---
 tordevries/tordevries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
