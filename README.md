@@ -1,4 +1,4 @@
-👋 Hi, I’m Tor de Vries, a designer, communicator, and associate professor at Washington State University.
+👋 Hi, I’m Tor de Vries, a designer and communicator, and formerly an associate professor at Washington State University.
 
 <!---
 tordevries/tordevries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
